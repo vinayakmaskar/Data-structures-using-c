@@ -27,7 +27,7 @@ void main()
 
      while (choice != 5)
      {
-         printf("\nenter your choice\n");
+         printf("\nenter your choice ");
      printf("1.push\n2.pop\n3.display\n4.peek\n5.exit\n");
      scanf("%d",&choice);
 
